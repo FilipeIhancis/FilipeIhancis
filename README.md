@@ -1,6 +1,6 @@
 ## Filipe Ihancis
 
-Estudante de Engenharia Elétrica, Técnico em Eletrônica. Foco em sistemas embarcados e redes de comunicação.
+Estudante de Engenharia de Controle e Automação (UFMG), Técnico em Eletrônica (COLTEC/UFMG). Foco em sistemas embarcados (IoT) e redes de comunicação.
 
 ### Linguagens
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
